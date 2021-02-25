@@ -2,7 +2,6 @@ body{
     background-color: #000000;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma;
-    flex-basis: auto;
 }
 
 /* HEADINGS */
@@ -38,6 +37,18 @@ body{
     text-align: right;
 }
 
-.large-pic {
-    width: 100%;
+@media (max-width: 404px) {
+    .large-iphone {
+        width: 100%;
+    }
+}
+
+@media (max-width: 896px) {
+    .large-tent {
+        width: 100%;
+    }
+}
+
+html * {
+    overflow: auto;
 }
