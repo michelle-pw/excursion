@@ -37,8 +37,3 @@ body{
     color:grey;
     text-align: right;
 }
-
-.box{
-    display:flex;
-    flex-direction:column;
-}
