@@ -2,6 +2,7 @@ body{
     background-color: #000000;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma;
+    display:inline-block;
 }
 
 /* HEADINGS */
