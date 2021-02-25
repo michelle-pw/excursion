@@ -21,9 +21,19 @@ body{
     font-weight: 300;
     font-size: 21px;
     color:grey;
+}
 
 /* LINKS */
 .link--cta{
-    font-size: 16px ;
-    color: aquamarine
+    font-size: 16px;
+    color:aquamarine;
 }
+
+/* FOOTER */
+.footer{
+    font-weight: 300;
+    font-size: 21px;
+    color:grey;
+    text-align: right;
+}
+
