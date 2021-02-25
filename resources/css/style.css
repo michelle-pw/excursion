@@ -37,3 +37,7 @@ body{
     color:grey;
     text-align: right;
 }
+
+img video {
+    width: 100%
+}
