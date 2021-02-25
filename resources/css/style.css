@@ -2,7 +2,6 @@ body{
     background-color: #000000;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    display: flex;
 }
 
 /* HEADINGS */
@@ -37,4 +36,3 @@ body{
     color:grey;
     text-align: right;
 }
-
